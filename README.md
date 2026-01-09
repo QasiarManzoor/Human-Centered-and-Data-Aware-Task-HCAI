@@ -118,5 +118,3 @@ For research and academic use only.
 ## 👤 Author
 
 **Qaisar Manzoor**  
-PhD (Artificial Intelligence)  
-Medical Imaging • Explainable AI • Multi-Task Learning
